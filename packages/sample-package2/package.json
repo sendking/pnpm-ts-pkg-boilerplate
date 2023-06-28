@@ -1,7 +1,7 @@
 {
   "name": "@sendking/sample-package2",
-  "version": "0.0.3",
-  "description": "@sendking/sample-package2",
+  "version": "0.0.4",
+  "description": "sample-package2",
   "author": "<author-name>",
   "license": "<license>",
   "homepage": "https://github.com/<github-username>/<repository-name>/tree/main/packages/<package-name>#readme",
