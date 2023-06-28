@@ -2,7 +2,7 @@
   "name": "pnpm-ts-pkg-boilerplate",
   "version": "0.0.1",
   "description": "Boilerplate of monorepo for npm package development with TypeScript using pnpm Workspace.",
-  "private": true,
+  "private": false,
   "author": "<author-name>",
   "homepage": "https://github.com/<author-name>/<repository-name>",
   "repository": {
