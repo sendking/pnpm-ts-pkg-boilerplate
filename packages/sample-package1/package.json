@@ -1,6 +1,7 @@
 {
   "name": "@sendking/monorepo",
   "version": "0.0.0",
+  "private": false,
   "description": "<package-description>",
   "author": "<author-name>",
   "license": "<license>",
