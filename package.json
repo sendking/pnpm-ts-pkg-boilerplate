@@ -1,5 +1,5 @@
 {
-  "name": "pnpm-ts-pkg-boilerplate",
+  "name": "@sendking/monorepo",
   "version": "0.0.1",
   "description": "Boilerplate of monorepo for npm package development with TypeScript using pnpm Workspace.",
   "private": false,
