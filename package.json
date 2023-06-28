@@ -1,6 +1,6 @@
 {
   "name": "@sendking/monorepo",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "Boilerplate of monorepo for npm package development with TypeScript using pnpm Workspace.",
   "private": false,
   "author": "<author-name>",
@@ -48,5 +48,9 @@
     "tsup": "^6.1.2",
     "typedoc": "^0.22.17",
     "typescript": "^4.7.3"
+  },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org/"
   }
 }
